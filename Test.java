@@ -13,4 +13,10 @@ public class{
 	System.Out.Println("PKR11");
 
 	}
+
+		public void mess(){
+
+	System.Out.Println("PKR1111");
+
+	}
 }
