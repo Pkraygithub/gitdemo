@@ -4,7 +4,7 @@ public class{
 
 	public void mess(){
 
-	System.Out.Println("PKR");
+	System.Out.Println("PKR1");
 
 	}
 }
